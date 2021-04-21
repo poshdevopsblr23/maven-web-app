@@ -5,7 +5,7 @@
 	<groupId>com.posh-technologies</groupId>
 	<artifactId>posh-technologies</artifactId>
 	<packaging>war</packaging>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.2-SNAPSHOT</version>
 	
 	<name>posh-technologies</name>
 
@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.22.210:8081/repository/posh-technologies-release/</url>
+	      <url>http://54.157.129.249:8085/repository/employee-systems-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Snapshot Nexus Repository</name>
-	      <url>http://44.192.22.210:8081/repository/posh-technologies-snapshot/</url>
+	      <url>http://54.157.129.249:8085/repository/employee-systems/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
