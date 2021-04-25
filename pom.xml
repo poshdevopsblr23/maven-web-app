@@ -15,7 +15,7 @@
 		<name>posh-technologies</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
-
+	<!-- Thank  you -->
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
