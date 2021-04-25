@@ -6,7 +6,7 @@
 	<artifactId>posh-technologies</artifactId>
 	<packaging>war</packaging>
 	<version>1.5-SNAPSHOT</version>
-	
+	<!-- Thank you -->
 	<name>posh-technologies</name>
 
 	<description>Maven Web App for Java Projects</description>
